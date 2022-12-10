@@ -1,0 +1,15 @@
+C:\Users\defaultuser0\Desktop\работа с git\dzh\tusk29\bin\Debug\net6.0\tusk29.exe
+C:\Users\defaultuser0\Desktop\работа с git\dzh\tusk29\bin\Debug\net6.0\tusk29.deps.json
+C:\Users\defaultuser0\Desktop\работа с git\dzh\tusk29\bin\Debug\net6.0\tusk29.runtimeconfig.json
+C:\Users\defaultuser0\Desktop\работа с git\dzh\tusk29\bin\Debug\net6.0\tusk29.dll
+C:\Users\defaultuser0\Desktop\работа с git\dzh\tusk29\bin\Debug\net6.0\tusk29.pdb
+C:\Users\defaultuser0\Desktop\работа с git\dzh\tusk29\obj\Debug\net6.0\tusk29.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\Desktop\работа с git\dzh\tusk29\obj\Debug\net6.0\tusk29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\Desktop\работа с git\dzh\tusk29\obj\Debug\net6.0\tusk29.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\Desktop\работа с git\dzh\tusk29\obj\Debug\net6.0\tusk29.AssemblyInfo.cs
+C:\Users\defaultuser0\Desktop\работа с git\dzh\tusk29\obj\Debug\net6.0\tusk29.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\Desktop\работа с git\dzh\tusk29\obj\Debug\net6.0\tusk29.dll
+C:\Users\defaultuser0\Desktop\работа с git\dzh\tusk29\obj\Debug\net6.0\refint\tusk29.dll
+C:\Users\defaultuser0\Desktop\работа с git\dzh\tusk29\obj\Debug\net6.0\tusk29.pdb
+C:\Users\defaultuser0\Desktop\работа с git\dzh\tusk29\obj\Debug\net6.0\tusk29.genruntimeconfig.cache
+C:\Users\defaultuser0\Desktop\работа с git\dzh\tusk29\obj\Debug\net6.0\ref\tusk29.dll
